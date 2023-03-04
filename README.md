@@ -1,5 +1,6 @@
 # 🏄‍♂️ Aidyn Kadyr  <a href="https://www.linkedin.com/in/aidynkadyr/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn3.iconfinder.com/data/icons/glypho-social-and-other-logos/64/logo-linkedin-1024.png"/></a>
   **`Machine Learning Engineer / Quantitative Finance Enthusiast`**
+I am a passionate mathematician with a keen interest in the intersection of mathematics, programming, and finance. Leveraging my background in mathematics, I have delved into the fascinating world of machine learning and quantitative finance, exploring how these tools can be applied to solve complex financial problems. My work combines rigorous mathematical analysis with innovative programming techniques to develop cutting-edge solutions that drive business success. I am committed to pushing the boundaries of what is possible and using my skills to make a meaningful impact in the field of finance.
 
 
 
