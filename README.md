@@ -11,9 +11,8 @@
       <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="Scikit Learn" src="https://custom-icon-badges.demolab.com/badge/Scikit%20learn-%20-blue?logo=scikit%20learn"></a>
- <a href="#"><img alt="XGBoost" src="https://custom-icon-badges.demolab.com/badge/-Seaborn-white?logo=seabornlogo"></a>
+     <a href="#"><img alt="Seaborn" src="https://custom-icon-badges.demolab.com/badge/-Seaborn-white?logo=seabornlogo"></a>
       <a href="#"><img alt="XGBoost" src="https://custom-icon-badges.demolab.com/badge/XGBoost-%20-blue?logo=xgboost"></a>
- 
       <a ><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
       <a ><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
       <a ><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
