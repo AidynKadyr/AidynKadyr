@@ -2,30 +2,16 @@
   **`Machine Learning Engineer / Quantitative Finance Enthusiast`** 
 # Welcome to My GitHub Page!
 
-I'm Aidyn, a dedicated mathematician with a profound interest in the dynamic intersection of mathematics, programming, and finance. My journey has led me to immerse myself in the captivating realms of machine learning and quantitative finance, where I explore innovative ways to apply these tools to address intricate financial challenges.
+I'm Aidyn, a dedicated data scientist and machine learning engineer. I have a Bachelor's degree in Mathematics from Nazarbayev University, Kazakhstan and currently pursuing a Master's education at Bocconi University in Italy - Data Science and Business Analytics program. 
+I have a profound interest in the dynamic intersection of mathematics, programming, and finance. My primary goal is to explore and solve financial challenges using modern quantitative technologies.
 
-## About Me
+## Experience
 
-- **Passionate Mathematician:** My foundational background in mathematics fuels my curiosity and love for solving complex problems.
+- **Machine Learning Engineer at Zypl.ai:** Model development to predict the rates of financial assets.
 
-- **Machine Learning Enthusiast:** Delving into the world of machine learning, I'm intrigued by the potential it holds to revolutionize financial analytics.
+- **Research Assistant at Nazarbayev University:** Predicting physical properties of graphene using SVR and reconstructing atomic structure based on the physical properties using Genetic Algorithm
 
-- **Quantitative Finance Explorer:** My exploration in quantitative finance involves applying rigorous mathematical analysis and pioneering programming techniques.
-
-## My Approach
-
-In my work, I amalgamate rigorous mathematical analysis with innovative programming techniques. This fusion enables me to develop cutting-edge solutions that not only meet but exceed the demands of the financial landscape. My commitment lies in pushing the boundaries of what is possible, using my skills to make a meaningful impact in the field of finance.
-
-## Core Values
-
-- **Excellence:** I am dedicated to achieving excellence in every project, ensuring that my solutions are robust, efficient, and contribute to overall business success.
-
-- **Innovation:** Embracing creativity and innovation, I seek novel approaches to problem-solving that challenge the status quo and drive progress.
-
-- **Impact:** My ultimate goal is to leverage my skills to make a lasting impact in the field of finance, contributing to the evolution of financial technologies and strategies.
-
-Thank you for visiting my GitHub page. Feel free to explore my repositories, and I welcome collaborations and discussions within the vibrant community of mathematicians, programmers, and finance enthusiasts.
-
+- **Data Scientist at the Agency for Strategic Planning and Reforms:** Built a macroeconomic model and worked with time-series prediction and analysis.
 
 
 
